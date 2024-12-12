@@ -1,0 +1,6 @@
+C:\Users\autologon\Desktop\Prova\ProvaSubstitutiva\Provasubstitutiva\obj\Debug\net8.0\Provasubstitutiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\Prova\ProvaSubstitutiva\Provasubstitutiva\obj\Debug\net8.0\Provasubstitutiva.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\Prova\ProvaSubstitutiva\Provasubstitutiva\obj\Debug\net8.0\Provasubstitutiva.AssemblyInfo.cs
+C:\Users\autologon\Desktop\Prova\ProvaSubstitutiva\Provasubstitutiva\obj\Debug\net8.0\Provasubstitutiva.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\Prova\ProvaSubstitutiva\Provasubstitutiva\obj\Debug\net8.0\Provasubstitutiva.sourcelink.json
+C:\Users\autologon\Desktop\Prova\ProvaSubstitutiva\Provasubstitutiva\obj\Debug\net8.0\Provasubstitutiva.csproj.AssemblyReference.cache
